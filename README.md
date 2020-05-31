@@ -1,1 +1,1 @@
-# 常用的JavaScript工具函数包🧰
+# Common JavaScript tool function packages🧰
